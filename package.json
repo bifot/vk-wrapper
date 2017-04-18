@@ -1,6 +1,6 @@
 {
   "name": "vk-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small wrapper for calling VK methods API.",
   "main": "index.js",
   "scripts": {
